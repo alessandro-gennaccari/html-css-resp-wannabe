@@ -72,6 +72,8 @@ img {
   clear: both;
 }
 
+
+
 @media screen and (max-width: 420px) {
 
   .row {
@@ -83,12 +85,12 @@ img {
   #lezioni .row>.right {
     width: 100%;
     float: none;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
   }
 
-  #lezione,
+  #lezioni,
   #steps {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
   }
 
   /* BLOCCO STEPS */
